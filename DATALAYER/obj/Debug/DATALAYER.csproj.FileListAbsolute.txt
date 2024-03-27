@@ -1,0 +1,24 @@
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\bin\Debug\DATALAYER.dll.config
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\bin\Debug\DATALAYER.dll
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\bin\Debug\DATALAYER.pdb
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\bin\Debug\EntityFramework.dll
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\bin\Debug\EntityFramework.SqlServer.dll
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\bin\Debug\EntityFramework.xml
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\bin\Debug\EntityFramework.SqlServer.xml
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\obj\Debug\DATALAYER.csproj.AssemblyReference.cache
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\obj\Debug\DATALAYER.csproj.CoreCompileInputs.cache
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\obj\Debug\DATALAYER.csproj.CopyComplete
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\obj\Debug\DATALAYER.dll
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\DATALAYER\obj\Debug\DATALAYER.pdb
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\bin\Debug\DATALAYER.dll.config
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\bin\Debug\DATALAYER.dll
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\bin\Debug\DATALAYER.pdb
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\bin\Debug\EntityFramework.dll
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\bin\Debug\EntityFramework.xml
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\obj\Debug\DATALAYER.csproj.AssemblyReference.cache
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\obj\Debug\DATALAYER.csproj.CoreCompileInputs.cache
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\obj\Debug\DATALAYER.csproj.CopyComplete
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\obj\Debug\DATALAYER.dll
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\DATALAYER\obj\Debug\DATALAYER.pdb

@@ -1,0 +1,63 @@
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\bin\Debug\QLKS.exe.config
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\bin\Debug\QLKS.exe
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\bin\Debug\QLKS.pdb
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.csproj.SuggestedBindingRedirects.cache
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.login.resources
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.exe
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.pdb
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.TRANGCHULETAN.resources
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.TRANGCHUBELLMAN.resources
+F:\CacMonHoc\3_HK2\CODE\PTTK\QLKS\QLKS\obj\Debug\QLKS.TRANGCHUBUONGPHONG.resources
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\BUSINESSLAYER.dll
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\DATALAYER.dll
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\EntityFramework.dll
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\BUSINESSLAYER.pdb
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\BUSINESSLAYER.dll.config
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\DATALAYER.pdb
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\DATALAYER.dll.config
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\EntityFramework.xml
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.csproj.SuggestedBindingRedirects.cache
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.login.resources
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.TRANGCHUBELLMAN.resources
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.TRANGCHUBUONGPHONG.resources
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.TRANGCHULETAN.resources
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\hk6\phân tích thiết kế hệ thống thông tin\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\QLKS.exe
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\QLKS.pdb
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\BUSINESSLAYER.dll
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\DATALAYER.dll
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\BUSINESSLAYER.pdb
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\BUSINESSLAYER.dll.config
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\DATALAYER.pdb
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\DATALAYER.dll.config
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.login.resources
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.TRANGCHUBELLMAN.resources
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.TRANGCHUBUONGPHONG.resources
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.TRANGCHULETAN.resources
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.exe
+C:\Users\ledao\OneDrive\Máy tính\QuanLyKhachSan\QLKS\obj\Debug\QLKS.pdb

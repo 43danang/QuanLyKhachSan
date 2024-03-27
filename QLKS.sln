@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLKS", "QLKS\QLKS.csproj", "{D9128CBE-82BB-4B48-8D57-9F5FCC531AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUSINESSLAYER", "BUSINESSLAYER\BUSINESSLAYER.csproj", "{8E34CC7E-B960-4915-9A93-C124252BFC10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATALAYER", "DATALAYER\DATALAYER.csproj", "{F49892EC-43BA-4416-85F9-8AE5DE190BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9128CBE-82BB-4B48-8D57-9F5FCC531AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9128CBE-82BB-4B48-8D57-9F5FCC531AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9128CBE-82BB-4B48-8D57-9F5FCC531AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9128CBE-82BB-4B48-8D57-9F5FCC531AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E34CC7E-B960-4915-9A93-C124252BFC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E34CC7E-B960-4915-9A93-C124252BFC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E34CC7E-B960-4915-9A93-C124252BFC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E34CC7E-B960-4915-9A93-C124252BFC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49892EC-43BA-4416-85F9-8AE5DE190BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49892EC-43BA-4416-85F9-8AE5DE190BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49892EC-43BA-4416-85F9-8AE5DE190BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49892EC-43BA-4416-85F9-8AE5DE190BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11712447-028F-4174-A35D-7210227E8EDB}
+	EndGlobalSection
+EndGlobal
